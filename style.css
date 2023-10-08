@@ -1,0 +1,15 @@
+body {
+    background-color: orange;
+    transition: all 0.5s;
+}
+
+#mainButton {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    border: none;
+    padding: 18px 60px;
+    border-radius: 8px;
+}
