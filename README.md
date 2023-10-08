@@ -1,3 +1,3 @@
 ﻿# project-generate-random-color
 
-Uploading Generate Color - Personal - Microsoft​ Edge 2023-10-08 17-49-59.mp4…
+https://github.com/Afnan112/project-generate-color/assets/130868488/ee3fd32d-ae02-43c0-95a3-8234ddcebd83
